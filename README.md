@@ -1,6 +1,6 @@
 
 # Project Information
-#test
+#test #test
 
 The source code for the educational website Data Science is available in this repository. This website was developed for aspiring students who are interested in data science and it gives you access to resources, including courses, that can help you develop your abilities. To direct users to the desired area of the website, the website is made up of a number of different sections, including home, about, courses, FAQ, and contact. Students can sign up and begin their careers as data scientists.
 
